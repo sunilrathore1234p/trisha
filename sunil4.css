@@ -1,0 +1,94 @@
+
+
+
+.home{ 
+background-image: url("img/business-1536236__340.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+background-color: #8f0001;
+padding-top:203px;
+}
+.home{
+width:100%;
+height:600px;
+}
+
+h1{
+
+font-size: 60px;
+color:#232323;
+font-weight: normal;
+text-align:center;
+}
+.menu{
+	 background-color: #2770e6;	  
+}
+.INN{font-size: 40px;
+color:  #FA4100;
+padding-left:150px;
+text-transform: uppercase;
+}
+
+.us{
+    margin-top: 25px;}
+	
+.us1{ margin-top: -35px;}
+.us2{margin-top: -15px;}
+
+
+
+@media only screen and (max-width: 600px){
+	.home{
+		width:100%;
+		height:400px !important;
+	}
+}
+@media only screen and (max-width: 1000px){
+	.home{
+		width:100%;
+		height:600px;
+	}
+}
+
+
+.head{color: #FA4100;
+     
+}
+h1{text-align:center;
+   
+
+}
+p{text-align:center;}
+.header1{
+	
+	color:blue;
+}
+
+.color1{
+	     background-color: #FA4100;
+		 padding-top:9px;
+		 margin-top:0px;
+		 width:100%;
+		 height:75px;
+		 color:white;
+		}
+
+.12{
+	height:500px;
+	
+	margin-top:60px;
+}
+	
+.content{
+	   font-family:sans-serif;
+	   text-align:justify;
+	   color:#6D6D6D;
+	    padding-top:16px;
+	  padding-bottom:0px;
+}		 
+
+.footer{background-color: #FA4100;
+        color:white;
+		padding-top:22px;
+				
+}
